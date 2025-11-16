@@ -1,0 +1,23 @@
+🚗 Bright Car Sales Analysis Project – Gantt Chart Plan
+Phase	Task	Duration	Dependencies
+Phase 1: Data Preparation	Collect & clean Bright Car Sales dataset	1 day	None
+Validate transactional & pricing data	1day	Data cleaning
+Phase 2: Analysis	Perform sales trend analysis (daily, monthly, seasonal)	2 days	Data validation
+Pricing & inventory optimization analysis	1 day	Sales trend analysis
+Regional dealership performance analysis	1 day	Sales trend analysis
+Phase 3: Insights & Strategy	Identify actionable insights for sales growth	2 days	Analysis tasks
+Develop dealership expansion strategy	2 days	Insights
+Optimize inventory recommendations	2 days	Insights
+Phase 4: Presentation	Draft slides with charts & visuals	2 days	Insights & strategy
+Review & finalize presentation	2 days	Draft slides
+Deliver presentation to Head of Sales	1 day	Finalization
+
+
+
+
+
+
+
+
+
+
